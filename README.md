@@ -1,2 +1,3 @@
 # hello-world
 My first repository...
+My name is La-Mostra, I am currently suffering from food coma due to a double double and lots of fries consumed at In-n-Out. I hope to make more progress than I have in the last couple hours.
